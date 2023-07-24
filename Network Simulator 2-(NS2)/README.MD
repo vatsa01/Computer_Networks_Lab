@@ -1,4 +1,4 @@
-# NS2 Instruction
+# NS2Instruction
 
 ## TCL file
 
