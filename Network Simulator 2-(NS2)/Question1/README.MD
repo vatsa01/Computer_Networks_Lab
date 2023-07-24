@@ -1,6 +1,6 @@
 # Steps to execute the Question 1 NS2
 
- ****Assuming using this in ubuntu or wsl ubuntu****
+ ****Assuming using this in ubuntu ****
 
 ## 1)Creating the files Q1.tcl and Q1.awk
 
