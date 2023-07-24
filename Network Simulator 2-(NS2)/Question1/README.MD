@@ -6,7 +6,7 @@
 
 ## 2)Executing the .tcl file 
 This lauches the simulator GUI
-```bash
+```sql
 ns Q1.tcl
 ```
 Also this generates two new file in the folder where the Q1.tcl is present<br>
@@ -20,7 +20,7 @@ Due to code in Q1.tcl<br>
 
 ## 3)Executing the awk file 
 Awk file typically used as a data extraction and reporting tool.
-```bash
+```sql
 awk -f Q1.awk prog1.tr
 ```
 Expected output:
