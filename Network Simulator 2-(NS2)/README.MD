@@ -1,4 +1,4 @@
-# NS2 Fuck Instruction
+# NS2 Instruction
 
 ## TCL file
 
