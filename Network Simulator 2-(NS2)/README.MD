@@ -2,7 +2,7 @@
 
 ## TCL file
 
-"Tcl casts everything into the mold of a command, even programming constructs like variable assignment and procedure definition."<br>-Wikipedia
+Tcl casts everything into the mold of a command, even programming constructs like variable assignment and procedure definition.
 
 ## Common in all programs
 ```bash
@@ -112,4 +112,4 @@ $ns run
 
 ## AWK file
 
-"Used for purposes of extracting or transforming text, such as producing formatted reports."<br>-Wikipedia
+Used for purposes of extracting or transforming text, such as producing formatted reports.
