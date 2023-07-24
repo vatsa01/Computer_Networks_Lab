@@ -72,7 +72,7 @@ $ns queue-limit $n1 $n2 5
 ### 4) Setting Agent
 
 |Sender|Reciever|
-|---|---|
+
 |UDP|NULL|
 |TCP|TCPSink|
 ```bash
